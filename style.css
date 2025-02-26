@@ -2,7 +2,7 @@ body{/*cor do fundo*/
     background-color: black;
     color: white;
 }
-strong {/*cor do texto em negrito*/
+.titulo-destaque {/*cor do texto em negrito*/
     color: #22D4FD;
 }
 header {/*cor do cabeçalho*/
