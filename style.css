@@ -34,6 +34,8 @@ footer {/*cor do rodapé*/
     text-align: center;
 }
 .apresentacao {/*cor do texto*/
+    margin: 10%;
     display: flex; /*exibe os elementos em linha*/
     align-items: center; /*alinha os itens verticalmente*/
+    justify-content: space-between; /*espaço entre os itens*/
 }
