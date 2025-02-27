@@ -33,3 +33,7 @@ footer {/*cor do rodapé*/
     color: #000000;
     text-align: center;
 }
+.apresentacao {/*cor do texto*/
+    display: flex; /*exibe os elementos em linha*/
+    align-items: center; /*alinha os itens verticalmente*/
+}
