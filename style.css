@@ -3,6 +3,8 @@
     padding: 0;
 }
 body{/*cor do fundo*/
+    height: 100vh; /*altura da tela a 100% do viewport height (tela do navegador)*/
+    box-sizing: border-box; /*inclui a borda e o preenchimento no cálculo do tamanho da caixa*/
     background-color: black;
     color: white;
 }
