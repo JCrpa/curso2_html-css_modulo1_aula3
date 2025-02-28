@@ -51,3 +51,7 @@ footer {/*cor do rodapé*/
     font-size: 24px; /*tamanho da fonte*/
     font-family: "Montserrat", sans-serif;
 } 
+.apresentacao__links {/*class dos botões*/
+    display: flex;
+    justify-content: space-between;
+}
