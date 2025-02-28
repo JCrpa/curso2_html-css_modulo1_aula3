@@ -31,13 +31,16 @@ footer {/*cor do rodapé*/
     text-align: center;
 }
 .apresentacao {/*class do main*/
-    margin: 10%;/*margem de 10%*/
+    margin: 15%;/*margem de 15%*/
     display: flex; /*exibe os elementos em linha*/
     align-items: center; /*alinha os itens verticalmente*/
     justify-content: space-between; /*espaço entre os itens*/
 }
 .apresentacao__conteudo {/*class da section*/
     width: 615px; /*largura da section*/
+    display: flex; /*exibe os elementos em linha*/
+    flex-direction: column; /*alinha os itens verticalmente*/
+    gap: 40px; /*espaço entre os itens*/
 }
 .apresentacao__conteudo__titulo {/*class do h1*/
     font-size: 36px; /*tamanho da fonte*/
