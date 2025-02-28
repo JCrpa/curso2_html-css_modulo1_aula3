@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
 * { /*reseta o padrão de margem e preenchimento para 0*/
     margin: 0;
     padding: 0;
@@ -44,7 +45,9 @@ footer {/*cor do rodapé*/
 }
 .apresentacao__conteudo__titulo {/*class do h1*/
     font-size: 36px; /*tamanho da fonte*/
+    font-family: "Krona One", sans-serif;
 }
 .apresentacao__conteudo__texto {/*class do p*/
     font-size: 24px; /*tamanho da fonte*/
-}
+    font-family: "Montserrat", sans-serif;
+} 
