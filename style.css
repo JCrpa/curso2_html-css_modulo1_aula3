@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
 }
-body{/*cor do fundo*/
+body{/*corpo da página*/
     height: 100vh; /*altura da tela a 100% do viewport height (tela do navegador)*/
     box-sizing: border-box; /*inclui a borda e o preenchimento no cálculo do tamanho da caixa*/
     background-color: black;
@@ -26,8 +26,9 @@ p{/*cor do parágrafo*/
     padding: 5px;
 }
 footer {/*cor do rodapé*/
-    background-color: gray;
+    background-color: #22D4FD;
     color: #000000;
+    font-family: "Montserrat", sans-serif;
     text-align: center;
 }
 .apresentacao {/*class do main*/
